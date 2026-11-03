@@ -1,0 +1,36 @@
+{
+  "chainId": 677,
+  "network": "mainnet",
+  "deployer": "0x766d0d810eCF822e02df47CDb5A389777f291895",
+  "local": false,
+  "contracts": {
+    "Burnbox": "0x37b746fa129d6bec0a2c0850c30ed272cecf0c10"
+  },
+  "actions": {
+    "deploy:Burnbox": {
+      "hash": "0x34239e0edc64504efc13d7c3274e2ba203ea66ba91064b651dc3d5103c2cca72",
+      "receipt": {
+        "transactionHash": "0x34239e0edc64504efc13d7c3274e2ba203ea66ba91064b651dc3d5103c2cca72",
+        "contractAddress": "0x37b746fa129d6bec0a2c0850c30ed272cecf0c10",
+        "blockNumber": "28953512",
+        "gasUsed": "1538883",
+        "gasPrice": "20000000000"
+      }
+    }
+  },
+  "gasSpentWei": "209669280000000000",
+  "ready": true,
+  "infrastructure": {
+    "USDT": "0xaBabc7Ddc03e501d190C676BF3d92ef0e6e87a3C",
+    "WBOT": "0xD5452816194a3784dBa983426cCe7c122F4abd30",
+    "router": "0x07032d47A1b9f8460cBeE9dC17c1d3E438693929",
+    "quoter": "0x034A705b36067cff99ABf5C662Be881cBd8d0176",
+    "fee": 3000
+  },
+  "launched": {
+    "burnbox": "2026-11-03T09:52:54.188Z"
+  },
+  "sourceHashes": {
+    "Burnbox": "0x21312f375ea66f5d9a4f374f99bf9ff38ef9b44418ed4c2de6cf02c75405b463"
+  }
+}

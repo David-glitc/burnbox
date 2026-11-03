@@ -1,0 +1,9 @@
+node_modules/
+dist/
+sites/
+contracts/out/
+contracts/cache/
+.env*
+*.log
+test-results/
+deployments/local.json

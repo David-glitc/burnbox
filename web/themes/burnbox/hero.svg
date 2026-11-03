@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" role="img" aria-label="A furnace box burning tokens, with coins dropping into the flames and a burn counter on its front"><defs><linearGradient id="bbSteel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A1F1B"/><stop offset="1" stop-color="#140E0C"/></linearGradient><radialGradient id="bbFire" cx=".5" cy="1" r=".9"><stop offset="0" stop-color="#FFE27A"/><stop offset=".35" stop-color="#FFA23A"/><stop offset=".7" stop-color="#FF6B2C"/><stop offset="1" stop-color="#FF6B2C" stop-opacity="0"/></radialGradient></defs>
+<g fill="#FFC24B" opacity=".75"><circle cx="128" cy="62" r="3"/><circle cx="352" cy="44" r="2.5"/><circle cx="300" cy="98" r="2"/><circle cx="168" cy="120" r="2"/><circle cx="392" cy="140" r="3"/></g>
+<g><circle cx="196" cy="58" r="22" fill="#FFC24B"/><circle cx="196" cy="58" r="15" fill="none" stroke="#B4741E" stroke-width="3"/><path d="M190 50h12M190 58h12M190 66h12" stroke="#B4741E" stroke-width="3"/></g>
+<g transform="rotate(-18 286 104)"><circle cx="286" cy="104" r="17" fill="#FFA23A"/><circle cx="286" cy="104" r="11" fill="none" stroke="#B4561E" stroke-width="3"/></g>
+<g transform="rotate(14 240 150)"><circle cx="240" cy="150" r="13" fill="#FFE27A"/><circle cx="240" cy="150" r="8" fill="none" stroke="#B4741E" stroke-width="2.5"/></g>
+<path d="M120 210c20-40 50-60 60-100 22 30 26 54 18 80 18-12 26-34 26-56 34 34 56 66 54 104 14-10 22-26 24-44 30 38 40 76 32 108H120c-14-30-14-62 0-92z" fill="url(#bbFire)"/>
+<path d="M190 236c10-20 26-30 30-50 12 16 14 28 10 40 10-6 14-18 14-28 18 18 28 34 28 54 7-5 12-14 12-22 15 18 20 36 16 54H190c-8-16-8-32 0-48z" fill="#FFE27A" opacity=".9"/>
+<rect x="70" y="250" width="340" height="138" rx="10" fill="url(#bbSteel)" stroke="#FF6B2C" stroke-width="4"/>
+<rect x="56" y="236" width="368" height="22" rx="6" fill="#FF6B2C"/>
+<g fill="#0A0605" stroke="#3A2A24" stroke-width="2"><rect x="98" y="278" width="284" height="56" rx="6"/></g>
+<text x="240" y="317" font-family="monospace" font-size="30" font-weight="700" fill="#FFE27A" text-anchor="middle" letter-spacing="6">1,204,331</text>
+<g fill="#3A2A24"><rect x="98" y="350" width="22" height="22" rx="3"/><rect x="130" y="350" width="22" height="22" rx="3"/><rect x="162" y="350" width="22" height="22" rx="3"/></g>
+<g fill="#FF6B2C"><circle cx="352" cy="361" r="11"/></g><circle cx="352" cy="361" r="5" fill="#FFE27A"/>
+<g stroke="#7E6154" stroke-width="3" stroke-linecap="round" opacity=".6"><path d="M196 362h120"/></g>
+<g fill="#FFA23A"><path d="M36 388h408v6H36z" opacity=".35"/></g></svg>

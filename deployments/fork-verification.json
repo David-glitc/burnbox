@@ -1,0 +1,9 @@
+{
+  "localOnly": true,
+  "chainId": 677,
+  "checkedAt": "2026-11-03T09:48:13.412Z",
+  "burnbox": {
+    "flow": "light box → stoke (BDEX buy → burn)",
+    "burned": "24813453348069712"
+  }
+}
